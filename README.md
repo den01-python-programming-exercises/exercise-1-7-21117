@@ -9,6 +9,10 @@ The exercise template comes with a program template that includes the function a
 def main():
   #write your code below this line
 
+ user = input('Ada:')
+    Message = output("hi Ada")
+    print('You wrote: ' + message)
+
 if __name__ == '__main__':
     main()
 ```
